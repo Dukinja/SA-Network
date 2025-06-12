@@ -6,6 +6,9 @@ Multiplayer mod made for GTA:SA using moonloader and SLNet
 • InVehicle Sync <br>
 • Health/Death/Respawn Sync
 
+# TODO 
+• Weapon, Aim and Shot Sync
+
 # Showcase 
 Old Showcase: https://youtube.com/playlist?list=PLV7SLrmlMVvBAscbf3EHJtKf0LiDgmzgz&si=JWrXuh4bPtP4gbr7
 
