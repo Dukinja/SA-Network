@@ -12,7 +12,7 @@ Multiplayer mod made for GTA:SA using moonloader and SLNet
 # Installation 
 
 Put the files in src into `moonloader` folder. 
-Extract `slnet.zip` into `moonloader/lib'
+Extract `slnet.zip` into `moonloader/lib`
 
 # Showcase 
 Old Showcase: https://youtube.com/playlist?list=PLV7SLrmlMVvBAscbf3EHJtKf0LiDgmzgz&si=JWrXuh4bPtP4gbr7
